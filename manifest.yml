@@ -1,0 +1,7 @@
+---
+name: partition_status
+description: |-
+  DCC Partition Status App
+category: Clusters
+icon: fa://tachometer
+new_window: false
